@@ -1,4 +1,4 @@
-# 4.2_Digital_Image_Processing_Lab_Codes
+# Digital Image Processing Lab Codes
 Offline codes are added.
 
 # Tools
